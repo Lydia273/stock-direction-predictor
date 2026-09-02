@@ -1,0 +1,4 @@
+# Local data cache (downloaded at runtime)
+*.csv
+*.parquet
+!.gitkeep
